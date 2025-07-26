@@ -83,6 +83,8 @@ This contains collections of miscellaneous assets of different kinds.
   later.
 * [Beast][133] - Music composition and modular synthesis
   software. [GNU LGPLv3][38] or later.
+* [Bosca Ceoil Blue][453] - A beginner-friendly music making app. [MIT][403]
+* [Glasan-FX][454] - A tiny sound effect generator. [MIT][403]
 * [Hydrogen][366] - An advanced drum machine, with a free drum kit
   included. [GNU GPLv2][14] or later.
 * [LMMS][142] - A digital audio workstation. [GNU GPLv2][14] or later.
@@ -168,6 +170,7 @@ These are full-blown game engines.
 * [BananaBread][162] - Implemented in ECMAScript. A port of Sauerbrauten. [zlib][45].
 * [Castle Game Engine][292] - Implemented in ObjectPascal. [GNU LGPLv2][102] or later.
 * [Chili Source][262] - Implemented in C++. [Expat][11].
+* [Cute Framework][451] - Implemented in C/C++. [zlib][45].
 * [Cocos2d][75] - Implemented in Python. [3-clause BSD][29].
 * [Cocos2d-android][263] - Implemented in Java. [3-clause BSD][29].
 * [Cocos2d-X][306] - Implemented in C++. Has ECMAScript, Lua and C++ scripting. [Expat][11].
@@ -271,7 +274,9 @@ Unless stated otherwise, these engines are implemented in ECMAScript.
 
 * [ammo.js][259] - Implemented in ECMAScript. A port of Bullet. [3-clause BSD][29].
 * [Box2D][48] - Implemented in C++. Designed to simulate rigid body physics. [zlib][45].
+* [Box2D.NET][452] - A port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers. [MIT][403].
 * [Bullet][59] - Implemented in C++. General physics engine. [zlib][45].
+* [Jolt][447] - Implemented in C++. A multi core friendly rigid body physics and collision detection library. Suitable for games and VR applications. Used by Horizon Forbidden West. [Expat][11]
 * [LiquidFun][396] - LiquidFun is a 2D rigid-body and fluid simulation C++ library for games based upon Box2D. [zlib][45].
 * [Matter.js][91] - Implemented in ECMAScript. Physics engine for HTML5. [Expat][11].
 * [ODE][117] - Open Dynamics Engine; implemented in C++. Designed to simulate
@@ -739,6 +744,7 @@ an engine would.
 * [Foster][437] - A small cross-platform 2D game framework. Implemented in C#. [MIT][403].
 * [GameJs][279] - A thin library on top of the Canvas API, including some
   helpful game development modules. [Expat][11].
+* [Geometric Tools][449] - A collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics. Implemented in C++. [BSL][450].
 * [Gideros][349] - A cross-platform game development framework in Lua. Various
   licenses, all free.
 * [Gladiator3D][267] - A raycasting engine. Implemented in
@@ -785,6 +791,7 @@ an engine would.
   development. Implemented in C++. [GNU LGPLv2][102] or later.
 * [raylib][390] - Low-level library designed to learn videogames programming.
   Implemented in C, but has Lua and Go bindings. [zlib][45]
+* [Recast Navigation][448] - State-of-the-art navmesh generation and navigation for games. [zlib][45]
 * [SDL][46] - Another cross-platform library for low-level tasks, like creating
   windows, accepting user input, and so forth. Implemented in C. [zlib][45].
 * [SFML][109] - Simple and Fast Multimedia Library; a multi-platform,
@@ -810,7 +817,7 @@ This is a catch-all category for things that don't fit anywhere else.
   range of bindings. [3-clause BSD][29].
 * [Easel.js][265] - Provides a range of tools to make working with the HTML5
   Canvas API easier. Implemented in ECMAScript. [Expat][11].
-* [EnginesDatabase.com][435] - A crowd-sourced database website of Game 
+* [EnginesDatabase.com][435] - A crowd-sourced database website of Game
   Engines and free (as in freedom) games for each engine.
 * [Gmsh][138] - A 3D finite-element grid generator with a built-in CAD engine
   and post-processor. [GNU GPLv2][14] or later.
@@ -1225,7 +1232,7 @@ This is a catch-all category for things that don't fit anywhere else.
 [400]: https://github.com/ocornut/imgui
 [401]: http://www.glfw.org/
 [402]: https://github.com/CedricGuillemet/ImGuizmo
-[403]: https://opensource.org/licenses/MIT
+[403]: https://opensource.org/license/MIT
 [405]: https://github.com/FortAwesome/Font-Awesome/
 [406]: https://github.com/gammasoft/fatcow
 [411]: https://github.com/nicodinh/kenney-icon-font/
@@ -1264,3 +1271,11 @@ This is a catch-all category for things that don't fit anywhere else.
 [444]: https://github.com/Syllo/nvtop
 [445]: https://github.com/clbr/radeontop
 [446]: https://github.com/ppy/osu
+[447]: https://github.com/jrouwe/JoltPhysics
+[448]: https://github.com/recastnavigation/recastnavigation
+[449]: https://github.com/davideberly/GeometricTools
+[450]: https://directory.fsf.org/wiki/License:BSL-1.0
+[451]: https://github.com/RandyGaul/cute_framework
+[452]: https://github.com/ikpil/Box2D.NET
+[453]: https://github.com/YuriSizov/boscaceoil-blue
+[454]: https://github.com/YuriSizov/glasan-fx
